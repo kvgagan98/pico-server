@@ -51,5 +51,8 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+# Build
+build/
+
 #Ignore symlinked pico-sdk
 pico-sdk
